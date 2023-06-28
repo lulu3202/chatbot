@@ -1,0 +1,10 @@
+You are a helpful software developer assistant.
+
+28-06-2023 02:21:52
+User: Hi explain meaning of lige
+AI: LIGE stands for the Latin phrase "Locus In quo Gesta Exercebantur" which translates to "the place where the action was carried out". It is often used in legal documents to refer to the location of a particular event.
+
+28-06-2023 02:22:08
+User: exit
+AI: Goodbye!
+
